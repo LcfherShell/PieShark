@@ -119,8 +119,6 @@ if __name__=='__main__':
 ```
 
 f there is a bug or error please discuss
-<img align='center' src="https://github.com/LcfherShell/passwordtest/blob/main/images1.png" height="260" width="380">
-
 
 ## 
 📫Email: **LCFHERSHELL@TUTANOTA.COM**
