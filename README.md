@@ -58,7 +58,7 @@ def home(request, response):
 	    {{ jquery }}
 	</head>
 	<body>
-		Hello from the HOME {{ hello }}
+		Hello {{ hello }}
 		<script>
 		{ obfusc_js }
 		alert('sss');
@@ -117,9 +117,25 @@ if __name__=='__main__':
 	app.run()
 
 ```
+Shark Template
+```
+<!DOCTYPE html/shark>
+<html>
+
+<head>
+    <link rel="stylesheet" href="/static/example.css">
+</head>
+
+<body>
+    <header>
+        <h1>Hello World </h1>
+    </header>
+</body>
+</html>
+```
+
 
 f there is a bug or error please discuss
-
 ## 
 📫Email: **LCFHERSHELL@TUTANOTA.COM**
 <h3 align="left">Sociall Media:</h3>
