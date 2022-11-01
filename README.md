@@ -4,10 +4,14 @@
 PieShark is a small framework for creating secure APIs and is recommended using python 3.4^.
 
 What you get from this framework:
--Cryptography
--Javascript obfuscator
--Fast HTTP Requests
--Javascript CDN
+
+- Cryptography
+
+- Javascript obfuscator
+
+- Fast HTTP Requests
+
+- Javascript CDN
 
 ##Installation steps:
 ```console
