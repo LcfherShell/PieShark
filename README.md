@@ -16,8 +16,6 @@ What you get from this framework:
 ## Installation steps:
 ```console
 $ pip install pieshark
-
----> 100%
 ```
 ## Simple Code:
 ```Python hl_lines="4  9-12  25-27"
@@ -135,7 +133,7 @@ Shark Template
 ```
 
 
-f there is a bug or error please discuss
+If there is a bug or error please discuss
 ## 
 📫Email: **LCFHERSHELL@TUTANOTA.COM**
 <h3 align="left">Sociall Media:</h3>
