@@ -1,7 +1,7 @@
 <p align="center" width=200px height=200px>
 	<img src="https://github.com/LcfherShell/PieShark/blob/main/pieshark.png" width=200px height=200px>
 </p>
-<h2>PieShark</h2> is a small framework for creating secure APIs and is recommended using python 3.4^.
+<b>PieShark</b> is a small framework for creating secure APIs and is recommended using python 3.4^.
 
 What you get from this framework:
 
